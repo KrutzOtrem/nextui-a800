@@ -12,6 +12,10 @@ Put these in your `BIOS/A800` folder:
 - `ATARIBAS.ROM` - Atari BASIC
 - `5200.ROM` - 5200 console BIOS
 
+## ROM Files
+
+Put these in your `Roms/(A800)` folder.
+
 ## Controls
 
 | Button | Action |

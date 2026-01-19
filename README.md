@@ -39,7 +39,7 @@ Put those in your `Roms/(A800)` folder.
 - Set "Atari System" to `5200` in core options.
 - Alternatively, just use the already existing, mature 5200 core.
 
-**Flob slaps:**
+**FloB slaps:**
 - I know.
 
 

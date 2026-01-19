@@ -27,6 +27,7 @@ Put those in your `Roms/(A800)` folder.
 | Select | Select |
 | L1 | Option |
 | R1 | Atari800 Menu |
+| R2 | Keyboard Layout |
 
 ## Common Issues I've Encountered
 

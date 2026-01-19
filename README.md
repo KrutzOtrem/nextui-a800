@@ -14,7 +14,7 @@ Put these in your `BIOS/A800` folder:
 
 ## ROM Files
 
-Put these in your `Roms/(A800)` folder.
+Put those in your `Roms/(A800)` folder.
 
 ## Controls
 

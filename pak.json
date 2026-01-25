@@ -1,0 +1,15 @@
+{
+  "name": "A800",
+  "version": "v0.4.2",
+  "type": "EMU",
+  "description": "This core emulates Atari 8-bit computers (400, 800, XL, XE) and the 5200 console.",
+  "author": "KrutzOtrem",
+  "repo_url": "https://github.com/KrutzOtrem/nextui-a800",
+  "release_filename": "A800.zip",
+  "changelog": {
+    "0.4.2": "Adds the initial support for Atari 800 console."
+  },
+  "platforms": [
+    "tg5040"
+  ]
+}
